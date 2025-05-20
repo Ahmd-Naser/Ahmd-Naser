@@ -1,16 +1,26 @@
-## Hi there 👋
+💻 Ahmed Nasser | Competitive Programmer & Software Developer
+I'm a Computer Science graduate from the Faculty of Computers and AI, Sohag University (Class of 2023). I'm passionate about solving problems and building real-world applications using C++ and C#.
 
-<!--
-**Ahmd-Naser/Ahmd-Naser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏆 ICPC Community Mentor & Instructor (3+ years at ICPC Sohag)
 
-Here are some ideas to get you started:
+🤖 Competitive Programmer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+3000+ problems solved on Codeforces, LeetCode & others
+
+ECPC contestant (3x) & co-coach (2x)
+
+ACPC 2022 qualifier – ranked 33rd
+
+🧠 Strong in Data Structures, Algorithms, and Object-Oriented Programming
+
+🛠️ Developed several C# projects including:
+
+📝 Online Exam Platform (Graduation Project)
+
+🛍️ E-Commerce System
+
+♟️ Chess Game
+
+👨‍🏫 Former Instructor at Almentor, teaching CS fundamentals to teens
+
+I'm always looking to collaborate on meaningful projects and continue learning.
