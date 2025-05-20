@@ -8,6 +8,8 @@ I'm a Computer Science graduate from the Faculty of Computers and AI, Sohag Univ
 
   - 3000+ problems solved on [Codeforces](https://codeforces.com/profile/Ahmed-Naser), [LeetCode](https://leetcode.com/u/Ahmed-Naser/) & others
 
+  - [Contributed](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/19542) a test case to a LeetCode problem, enhancing its robustness by addressing an overlooked edge case. 
+
   - ECPC contestant (3x) & co-coach (2x)
 
   - ACPC 2022 participant – ranked 33rd
