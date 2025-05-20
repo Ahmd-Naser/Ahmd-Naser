@@ -10,7 +10,7 @@ I'm a Computer Science graduate from the Faculty of Computers and AI, Sohag Univ
 
   - ECPC contestant (3x) & co-coach (2x)
 
-  - ACPC 2022 qualifier – ranked 33rd
+  - ACPC 2022 participant – ranked 33rd
     
   - [ICPC profile](https://icpc.global/ICPCID/89099KVC9CE4)
 
