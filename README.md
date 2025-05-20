@@ -6,11 +6,13 @@ I'm a Computer Science graduate from the Faculty of Computers and AI, Sohag Univ
 
 - 🤖 Competitive Programmer
 
-  - 3000+ problems solved on Codeforces, LeetCode & others
+  - 3000+ problems solved on [Codeforces](https://codeforces.com/profile/Ahmed-Naser), [LeetCode](https://leetcode.com/u/Ahmed-Naser/) & others
 
   - ECPC contestant (3x) & co-coach (2x)
 
   - ACPC 2022 qualifier – ranked 33rd
+    
+  - [ICPC profile](https://icpc.global/ICPCID/89099KVC9CE4)
 
 - 🧠 Strong in Data Structures, Algorithms, and Object-Oriented Programming
 
