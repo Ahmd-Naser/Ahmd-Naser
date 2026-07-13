@@ -23,7 +23,7 @@ I'm a Computer Science graduate from the Faculty of Computers and AI, Sohag Univ
 
 - 🛠️ Developed several C# projects including:
   
-  - 📝 [(Survey Basket API)](https://github.com/Ahmd-Naser/survey-basket)
+  - 📝 [Survey Basket API](https://github.com/Ahmd-Naser/survey-basket)
 
   - 📝 Online Exam Platform [(Graduation Project)](https://github.com/Ahmd-Naser/OnlineExamGraduateProject)
 
